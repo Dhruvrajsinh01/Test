@@ -1,0 +1,21 @@
+#todo-input {
+    margin-bottom: 10px;
+  }
+  
+  #todo-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .todo-item {
+    margin-bottom: 5px;
+  }
+  
+  .todo-item span {
+    margin-right: 10px;
+  }
+  
+  .todo-item button {
+    margin-left: 5px;
+  }
+  
